@@ -1,0 +1,27 @@
+.button {
+    background-color: #037ffc;
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.button:hover {
+    color: white;
+    background-color: #0349fc;
+}
+
+i {
+    color: #037ffc;
+}
+
+i:hover {
+    color: #0349fc;
+}
+
+input {
+    border-radius: 5px;
+    border: 1px solid #037ffc;
+    box-shadow: 0 0 10px 3px #037ffc; 
+}
+
